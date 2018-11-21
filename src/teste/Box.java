@@ -1,4 +1,4 @@
-package models;
+package teste;
 
 public class Box<T> {
 
