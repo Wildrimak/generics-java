@@ -4,12 +4,17 @@ import java.util.ArrayList;
 import java.util.List;
 
 import teste.Box;
+import teste.Material;
 
 public class Main {
 
 	public static void main(String[] args) {
 
 		testaBox();
+		testaTridente();
+	}
+
+	private static void testaTridente() {
 	}
 
 	private static void testaBox() {
