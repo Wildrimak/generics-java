@@ -18,5 +18,10 @@ public class Box<T> {
 	public void setT(T t) {
 		this.t = t;
 	}
+	
+	public Box<T> getTypedBox(String nome, Class<T> classe){
+		return null;
+		
+	}
 
 }

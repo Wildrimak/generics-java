@@ -32,6 +32,7 @@ public class Main {
 
 		boxes_strings.add(box1);
 		boxes_strings.add(box2);
+		
 	}
 
 }

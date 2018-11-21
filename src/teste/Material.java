@@ -1,9 +1,8 @@
 package teste;
 
-public class Material<X, Y, Z> implements Tridente<X, Y, Z>{
+public class Material<X, Y, Z> implements Volumavel<X, Y, Z>{
 
 	private String nome;
-
 	private Double densidade;
 
 	public String getNome() {
